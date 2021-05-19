@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+hr{
+    color: white;
+}
+
+a{
+    color: white;
+}
+table{
+    padding-left: 550px;
+    align-items: center;
+}
+td{
+    padding-left: 150px;
+}
+.time{
+    padding-left: 22px;
+    padding-bottom: 50px;
+}
